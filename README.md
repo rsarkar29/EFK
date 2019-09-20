@@ -168,6 +168,9 @@ Now everything is done access your kibana using ingress controller ELB.
 ## Refernces
 
 https://imti.co/kubernetes-ingress-basic-auth/
+
 https://github.com/kubernetes/ingress-nginx/blob/master/docs/deploy/index.md
-https://www.digitalocean.com/community/tutorials/how-to-set-up-an-elasticsearch-fluentd-and-kibana-efk-logging-stack-on-kubernetes
+
+https://www.digitalocean.com/community/tutorials/
+how-to-set-up-an-elasticsearch-fluentd-and-kibana-efk-logging-stack-on-kubernetes
 
